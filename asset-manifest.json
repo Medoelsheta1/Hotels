@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Hotels/static/css/main.62fbae05.css",
+    "main.js": "/Hotels/static/js/main.11dc1812.js",
+    "static/media/Australia.jpg": "/Hotels/static/media/Australia.e33a3e8f88426cc0d615.jpg",
+    "static/media/China.jpg": "/Hotels/static/media/China.1c08726ed6e9583ba3f7.jpg",
+    "static/media/canada.jpg": "/Hotels/static/media/canada.fae95eece5751dba4de6.jpg",
+    "static/media/Brazil.jpg": "/Hotels/static/media/Brazil.0e99d2aeb8c700ef9846.jpg",
+    "static/media/GlobeGeniusBadge.png": "/Hotels/static/media/GlobeGeniusBadge.f04f666b71ae3119dbb5.png",
+    "static/media/America.jpg": "/Hotels/static/media/America.d3589ed47374d4787713.jpg",
+    "index.html": "/Hotels/index.html",
+    "main.62fbae05.css.map": "/Hotels/static/css/main.62fbae05.css.map",
+    "main.11dc1812.js.map": "/Hotels/static/js/main.11dc1812.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62fbae05.css",
+    "static/js/main.11dc1812.js"
+  ]
+}
