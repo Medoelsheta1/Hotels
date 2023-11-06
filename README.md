@@ -1,5 +1,5 @@
 # Hottels-Website
-Website for fetching hotels built on react
+Website for hotels built on React
 
 
 ## Abstract
@@ -8,27 +8,27 @@ This project concentrates on building a website for hotels. The website is based
 
 ### METHODOLOGY
 
-a- React
-b- Bootstrap
-c- Axios
-d- React-icons
-e- React-router-dom
-f-Reduc-toolkit
-g- bure css
-h- rapid-Api
+a- React <br>
+b- Bootstrap <br>
+c- Axios <br>
+d- React-icons <br>
+e- React-router-dom <br>
+f-Reduc-toolkit <br>
+g- bure css <br>
+h- rapid-Api <br>
 
 ### Advantages
 
-The main objective of the entire activity is to create a website for hotel information.
+The main objective of the entire activity is to create a website for hotel information. <br>
 
-1- get hotels in time you need
-2- get hotel details and offers
-3- add or remove items in favouriteHotels page
-4- filtering Hotels
-5- Login/Signup
-6- Show hotel location
-7- Provide information on hotel services
-8- Display different rooms available
+1- get hotels in time you need <br>
+2- get hotel details and offers <br>
+3- add or remove items in favouriteHotels page <br>
+4- filtering Hotels <br>
+5- Login/Signup <br>
+6- Show hotel location <br>
+7- Provide information on hotel services <br>
+8- Display different rooms available <br>
 
 
 
