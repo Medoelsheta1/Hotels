@@ -1,4 +1,4 @@
-# Hottels-Website
+# Hotels-Website
 Website for hotels built on React
 
 
