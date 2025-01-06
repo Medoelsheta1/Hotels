@@ -29,6 +29,3 @@ The main objective of the entire activity is to create a website for hotel infor
 6- Show hotel location <br>
 7- Provide information on hotel services <br>
 8- Display different rooms available <br>
-
-
-https://tourism.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJwIjoiaiIsImkiOiIyZGY2ZWYwMmU5NTM0NzBhOTdkM2M1Yzg2NjY5NTAyYiJ9&cloudId=139cd625-3dee-461a-bc35-82902baef293&selectedIssue=SCRUM-11
